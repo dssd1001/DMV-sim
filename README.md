@@ -1,4 +1,4 @@
-# fake-DMV
+# DMV-sim
 
 First java swing-gui project
 
